@@ -5,7 +5,7 @@
         <title></title>
     </head>
     <body>
-        <h3>Image resize</h3>
+        <h3>Image resize!!!</h3>
 
         <form enctype="multipart/form-data"  method="post" action="load.php">
           <p><input type="file" name="filename" accept="image/*"></p>
